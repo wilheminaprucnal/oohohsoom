@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phukaesie.akamasdesign.com/sitemap.xml
